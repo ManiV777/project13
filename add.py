@@ -1,3 +1,5 @@
 a=3
 b=34
-print(a+b)
+c=12
+d=a+b+c
+print(d)
